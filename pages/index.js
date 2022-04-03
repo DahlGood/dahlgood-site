@@ -11,12 +11,10 @@ export default function Home() {
 			</Head>
 
 			<main>
-				<h1>
-					Hi, I'm Luke!
-				</h1>
+				<h1>Hi, I&apos;m Luke.</h1>
 
 				<p >
-					Developer, Designer, and Professional Dickhead.
+					Developer, Designer, and Icon.
 				</p>
 
 			</main>
